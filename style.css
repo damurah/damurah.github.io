@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2ebf0;
@@ -10,3 +11,17 @@
 section {
   padding-top: 5rem;
 }
+=======
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2ebf0;
+}
+
+#projects {
+  background-color: #e2ebf0;
+}
+
+section {
+  padding-top: 5rem;
+}
+>>>>>>> 2950a8c50b643a2ec55410c862f9df7a351a4854
